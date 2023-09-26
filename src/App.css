@@ -14,12 +14,13 @@
 
 .app-wrapper {
   background-color: #12343b;
-  min-width: 450px;
+  min-width: 650px;
   min-height: 650px;
   padding: 30px;
   box-sizing: border-box;
   box-shadow: 3px 6px 20px #000;
   margin-bottom: 10px;
+  border-radius: 12px;
 }
 
 .header h1 {
