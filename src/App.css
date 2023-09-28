@@ -74,16 +74,17 @@
 
 .button-complete {
   color: #ff6c6c;
-  margin-right: 10px;
+  margin: 0 2px 0 2px;
 }
 
 .button-edit {
   color: #e2d029;
-  margin-right: 10px;
+  margin: 2px 2px 0 2px;
 }
 
 .button-delete {
   color: lightseagreen;
+  margin: 0 4px 0 2px;
 }
 
 .complete {
@@ -109,5 +110,5 @@ input:focus {
 }
 
 .icons {
-  margin-right: auto;
+  margin-left: auto;
 }
